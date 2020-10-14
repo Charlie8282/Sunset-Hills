@@ -42,6 +42,8 @@ Custom
 body {
     font-family: "Open Sans", sans-serif;
     color: #272829;
+    background-image: url('../Images/2020-10-13 (5).png');
+    background-size: cover;
 }
 
 a {
@@ -57,9 +59,9 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Raleway", sans-serif;
 }
 
-.bgcolor {
+/*.bgcolor {
     background-color: blanchedalmond;
-}
+}*/
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
